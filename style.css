@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    flex-direction: row;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+}
+
+.navigation {
+
+}
+
+.navigation-list {
+
+}
+
+.midsection {
+
+}
+
+.main-content {
+
+}
